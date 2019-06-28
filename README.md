@@ -1,5 +1,7 @@
 # GUI for Project GEKKO
 
+**Note that this project is now deprecated. It will soon be replaced by a complete rewrite found [here](https://github.com/dhill2522/GekkoGui)**
+
 > A Vue.js gui for project GEKKO.
 
 This simple gui is used for visualizing the results from a Gekko model
